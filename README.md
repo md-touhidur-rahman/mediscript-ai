@@ -1,6 +1,6 @@
 #  MediScript AI
 
-Live Demo: https://mediscript-ai.streamlit.app
+Live Demo: https://mediscript-ai-v1.streamlit.app/
 
 A **general handwriting recognition system** that works for:
 - Doctor prescriptions
