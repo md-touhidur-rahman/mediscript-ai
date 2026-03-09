@@ -1,0 +1,17 @@
+
+Copy
+
+[server]
+maxUploadSize = 200
+headless = true
+
+[browser]
+gatherUsageStats = false
+
+
+
+
+
+
+
+
